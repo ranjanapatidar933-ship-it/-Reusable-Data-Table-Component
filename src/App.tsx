@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div className={styles.container}>
-      <h1 className={styles.heading}>Data Table Demo</h1>
+      <h1 className={styles.heading}>Data Table</h1>
 
       <DataTable
         data={data}
